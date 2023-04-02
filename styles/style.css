@@ -36,7 +36,7 @@
 
 
 .block-header {
-    background-image: url(/images/header/LogoCPS.svg);
+    background-image: url(../images/header/LogoCPS.svg);
     background-repeat: no-repeat;
     background-position: 73px center ;
 }
@@ -76,7 +76,7 @@
     font-family: 'TT Lakes Bold';
     font-weight: bold;
     margin-right: auto;
-    background-image: url(/images/header/iconburger.svg);
+    background-image: url(../images/header/iconburger.svg);
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -84,7 +84,7 @@
     font-family: 'TT Lakes Bold';
     font-weight: bold;
     display: none;
-    background-image: url(/images/header/iconphone.svg);
+    background-image: url(../images/header/iconphone.svg);
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -92,7 +92,7 @@
     font-family: 'TT Lakes Bold';
     font-weight: bold;
     display: none;
-    background-image: url(/images/header/icon.svg);
+    background-image: url(../images/header/icon.svg);
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -100,7 +100,7 @@
     font-family: 'TT Lakes Bold';
     font-weight: bold;
     display: none;
-    background-image: url(/images/header/iconman.svg);
+    background-image: url(../images/header/iconman.svg);
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -108,7 +108,7 @@
     font-family: 'TT Lakes Bold';
     font-weight: bold;
     align-self: flex-end;
-    background-image: url(/images/header/Groupsupport.svg);
+    background-image: url(../images/header/Groupsupport.svg);
     background-repeat: no-repeat;
     background-position: center;
 }
