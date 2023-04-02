@@ -117,7 +117,7 @@
 .mod-FAQ {
     font-family: 'TT Lakes Bold';
     font-weight: bold;
-    background-image: url(/images/header/iconFAQ.svg);
+    background-image: url(../images/header/iconFAQ.svg);
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -135,7 +135,7 @@
     font-family: 'TT Lakes Bold';
     font-weight: bold;
     color: #1B1C21;
-    background-image: url(/images/header/blue-line.svg);
+    background-image: url(../images/header/blue-line.svg);
     background-position: left center;
     background-repeat: no-repeat;
 }
@@ -196,7 +196,7 @@
     display: inline-block;
     padding-left: 24px;
     color: black;
-    background-image: url(/images/header/arrow.svg);
+    background-image: url(../images/header/arrow.svg);
     background-repeat: no-repeat;
     background-position: left center;
     font-family: 'TT Lakes Bold';
@@ -301,7 +301,7 @@
         display: inline-block;
         align-self: center;
         height: 40px;
-        background-image: url(/images/header/repair.svg);
+        background-image: url(../images/header/repair.svg);
         background-position: right center;
         padding-top: 20px;
         padding-right: 60px;
@@ -312,7 +312,7 @@
         display: inline-block;
         align-self: center;
         height: 40px;
-        background-image: url(/images/header/checkstatus.svg);
+        background-image: url(../images/header/checkstatus.svg);
         background-position: right center;
         padding-top: 20px;
         padding-right: 60px;
